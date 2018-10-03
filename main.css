@@ -1,0 +1,10 @@
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-color: lightgrey;
+}
+
+.intro {
+  color: green;
+  border-bottom: 5px solid navy;
+  text-align: center;
+}
